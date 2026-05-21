@@ -298,8 +298,11 @@ class Scraper:
         response.raise_for_status()
         html = response.text
         soup = BeautifulSoup(html, 'html.parser')
-        with open('test.txt', 'w', encoding='utf-8') as f:
-            f.write(soup.prettify())
+        try:
+            with open('test.txt', 'w', encoding='utf-8') as f:
+                f.write(soup.prettify())
+        except OSError:
+            pass  # Skip di Vercel (read-only filesystem)
         job_cards = soup.find_all('div', class_=re.compile(r'JobCardsc__JobcardContainer'))
         print(params)
         print(response.url)

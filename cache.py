@@ -8,6 +8,9 @@ DATA_DIR = Path(os.environ.get("SCRAPER_SHARDS_DIR", PROJECT_ROOT / "data" / "sh
 LOCK = threading.Lock()
 TTL = timedelta(hours=24)
 
+# Deteksi lingkungan Vercel (filesystem read-only)
+IS_VERCEL = os.environ.get("VERCEL") == "1"
+
 # Inisialisasi Vercel KV jika dikonfigurasi di environment
 KV_URL = os.environ.get("KV_REST_API_URL")
 KV_TOKEN = os.environ.get("KV_REST_API_TOKEN")
@@ -20,6 +23,10 @@ if KV_URL and KV_TOKEN:
     except ImportError:
         # Fallback jika library belum di-install saat run local dev
         pass
+
+def _empty_shard(keyword: str, source: str) -> dict:
+    """Return struktur shard kosong tanpa menyentuh disk."""
+    return {"_meta": {"keyword": keyword, "source": source, "updated_utc": _iso(_now())}, "variants": {}}
 
 def _now():
     return datetime.now(timezone.utc)
@@ -44,6 +51,7 @@ def variant_key(*, page:int, job_type:str, work_option:str, location_id:str) -> 
     return f"page={int(page)}|jt={_canon_list(job_type)}|wo={_canon_list(work_option)}|loc={(location_id or '').strip().lower() or 'all'}"
 
 def load_shard(keyword: str, source: str) -> dict:
+    # 1) Coba Redis terlebih dahulu
     if redis_client:
         try:
             key = _redis_key(keyword, source)
@@ -53,29 +61,39 @@ def load_shard(keyword: str, source: str) -> dict:
                     return val
                 return json.loads(val)
         except Exception as e:
-            # Fallback jika terjadi error koneksi ke Redis
-            print(f"[KV Connection Error] Falling back to file cache: {e}")
-            
+            print(f"[KV Connection Error] load_shard: {e}")
+
+    # 2) Di Vercel tanpa Redis → kembalikan shard kosong, JANGAN sentuh disk
+    if IS_VERCEL:
+        return _empty_shard(keyword, source)
+
+    # 3) Fallback ke filesystem lokal (hanya saat development)
     path = _shard_path(keyword, source)
     if not os.path.exists(path):
-        return {"_meta": {"keyword": keyword, "source": source, "updated_utc": _iso(_now())}, "variants": {}}
+        return _empty_shard(keyword, source)
     with LOCK, open(path, "r", encoding="utf-8") as f:
         try: return json.load(f)
         except json.JSONDecodeError:
-            return {"_meta": {"keyword": keyword, "source": source, "updated_utc": _iso(_now())}, "variants": {}}
+            return _empty_shard(keyword, source)
 
 def save_shard(keyword: str, source: str, shard: dict):
     shard["_meta"]["updated_utc"] = _iso(_now())
-    
+
+    # 1) Coba Redis terlebih dahulu
     if redis_client:
         try:
             key = _redis_key(keyword, source)
-            # Simpan ke Redis dengan TTL 7 hari agar shard yang lama dan tidak aktif terhapus otomatis
             redis_client.set(key, json.dumps(shard, ensure_ascii=False), ex=7*24*60*60)
             return
         except Exception as e:
-            print(f"[KV Connection Error] Falling back to file cache for saving: {e}")
-            
+            print(f"[KV Connection Error] save_shard: {e}")
+
+    # 2) Di Vercel tanpa Redis → skip, tidak bisa menulis ke disk
+    if IS_VERCEL:
+        print("[Warning] save_shard skipped: Vercel read-only filesystem and no KV connected")
+        return
+
+    # 3) Fallback ke filesystem lokal (hanya saat development)
     path = _shard_path(keyword, source)
     with LOCK, open(path, "w", encoding="utf-8") as f:
         json.dump(shard, f, ensure_ascii=False, indent=2)
