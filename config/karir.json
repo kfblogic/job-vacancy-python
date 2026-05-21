@@ -1,0 +1,64 @@
+[
+    {
+        "domain": "karir.com",
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "__Host-next-auth.csrf-token",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "0e1712e42e0c1254cc5cc0bc68eaf718bb19a136683a39aab9455d90a28e8a7a%7C5d7d6f931576c1ba6abe8b3083253fb6c2ae09aa6c5e7c943beaff3882204862"
+    },
+    {
+        "domain": "karir.com",
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "__Secure-next-auth.callback-url",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "https%3A%2F%2Fkarir.com"
+    },
+    {
+        "domain": ".karir.com",
+        "expirationDate": 1779870942.917107,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_ga",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "GA1.2.1922199893.1745217441"
+    },
+    {
+        "domain": ".karir.com",
+        "expirationDate": 1745397342,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_gid",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "GA1.2.1923619023.1745310862"
+    },
+    {
+        "domain": "karir.com",
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "prev-url",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": true,
+        "storeId": null,
+        "value": "/"
+    }
+]

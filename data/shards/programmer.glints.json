@@ -1,0 +1,777 @@
+{
+  "_meta": {
+    "keyword": "Programmer",
+    "source": "glints",
+    "updated_utc": "2026-05-18T12:23:10.570344Z"
+  },
+  "variants": {
+    "page=2|jt=fulltime|wo=|loc=all": {
+      "ts": "2025-09-14T19:19:14.099761Z",
+      "data": {
+        "status": "success",
+        "message": "Success find job",
+        "data": {
+          "jobs": [
+            {
+              "title": "Programmer Trainee",
+              "salary": "Rp 4jt-7jt",
+              "location": "Curug, Serang, Banten",
+              "company_name": "PT. Nata Connexindo Digital",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/c270312b35fc92bb11cc8366f6294fd6.png",
+              "link": "https://glints.com/id/opportunities/jobs/programmer-trainee/273c299d-951d-4f90-bd74-3394c4e1e8b1?utm_referrer=explore&traceInfo=e878bb40-6467-4f60-b63f-c4b55463ca58"
+            },
+            {
+              "title": "IT PROGRAMMER",
+              "salary": "Rp 6jt-7jt",
+              "location": "Pasar Rebo, Jakarta Timur, DKI Jakarta",
+              "company_name": "PT. Dharma Karyatama Mulia",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/ad6ef707abf0ee2e666e5f5603578d9c.png",
+              "link": "https://glints.com/id/opportunities/jobs/it-programmer/04edcb96-0719-4711-8c88-a30d42411796?utm_referrer=explore&traceInfo=e878bb40-6467-4f60-b63f-c4b55463ca58"
+            },
+            {
+              "title": "IT PROGRAMMER",
+              "salary": "Rp 3jt-5jt",
+              "location": "Kapanewon Ngaglik, Kab. Sleman, DI Yogyakarta",
+              "company_name": "PT Inovasi Kemajuan Nusantara",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/59998d41126909c1dd5ac620a60fb35d.jpeg",
+              "link": "https://glints.com/id/opportunities/jobs/it-programmer/50fd0003-c6c7-4a63-bf07-33f2b962f00c?utm_referrer=explore&traceInfo=e878bb40-6467-4f60-b63f-c4b55463ca58"
+            },
+            {
+              "title": "IT - Programmer",
+              "salary": "Rp 4jt-5jt",
+              "location": "Gunung Sindur, Kab. Bogor, Jawa Barat",
+              "company_name": "Serpong Natura City",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/73bb8e3231f856aee400b1bbbbe57851.png",
+              "link": "https://glints.com/id/opportunities/jobs/it-programmer/b390f9bd-0d62-4ba9-a4eb-28d7161d3e78?utm_referrer=explore&traceInfo=e878bb40-6467-4f60-b63f-c4b55463ca58"
+            },
+            {
+              "title": "Programmer IOT",
+              "salary": "Rp 4jt-6,5jt",
+              "location": "Penjaringan, Jakarta Utara, DKI Jakarta",
+              "company_name": "Pt Ekata Logue Ekologika",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/d1981f10787a5a35495e043c6a3e56e0.jpg",
+              "link": "https://glints.com/id/opportunities/jobs/programmer-iot/b53ccd98-369d-4d14-ad65-fc2662dbcc9e?utm_referrer=explore&traceInfo=e878bb40-6467-4f60-b63f-c4b55463ca58"
+            },
+            {
+              "title": "IT Programmer",
+              "salary": "Rp 6jt-7jt",
+              "location": "Tenggilis Mejoyo, Surabaya, Jawa Timur",
+              "company_name": "RS Royal Surabaya",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/5ed61fbd2dd9c1a4c139c634bd19e804.jpeg",
+              "link": "https://glints.com/id/opportunities/jobs/it-programmer/18ee098a-305b-4255-9540-4d25d36ef3be?utm_referrer=explore&traceInfo=e878bb40-6467-4f60-b63f-c4b55463ca58"
+            },
+            {
+              "title": "Programmer CNC",
+              "salary": "Rp 5jt-6jt",
+              "location": "Tambun Selatan, Kab. Bekasi, Jawa Barat",
+              "company_name": "PT ATA INTERNASIONAL INDUSTRI",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/7466b05f3116b02502a965248e842bce.png",
+              "link": "https://glints.com/id/opportunities/jobs/programmer-cnc/fd386b0f-7d20-4293-8da2-2d953093207d?utm_referrer=explore&traceInfo=e878bb40-6467-4f60-b63f-c4b55463ca58"
+            },
+            {
+              "title": "Game Programmer",
+              "salary": "Rp 5jt-8jt",
+              "location": "Cibeunying Kaler, Bandung, Jawa Barat",
+              "company_name": "PT.ANGIN DIGITAL INTERAKTIF",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/b05a091df60151e02c4b5a98db485aa6.jpg",
+              "link": "https://glints.com/id/opportunities/jobs/game-programmer/167c1fc5-c7d9-4aaa-8b3d-53f2df1fcc22?utm_referrer=explore&traceInfo=e878bb40-6467-4f60-b63f-c4b55463ca58"
+            },
+            {
+              "title": "Mobile Programmer",
+              "salary": "Rp 6jt-8jt",
+              "location": "Mampang Prapatan, Jakarta Selatan, DKI Jakarta",
+              "company_name": "MGS Indonesia",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/7fe10fb8a8de69f013d542f25f97efc5.png",
+              "link": "https://glints.com/id/opportunities/jobs/mobile-programmer/1153a552-9c5f-43db-a5cf-972237a0f3ee?utm_referrer=explore&traceInfo=e878bb40-6467-4f60-b63f-c4b55463ca58"
+            },
+            {
+              "title": "Game Programmer",
+              "salary": "Rp 5jt-6jt",
+              "location": "Pagedangan, Kab. Tangerang, Banten",
+              "company_name": "PT YAKIN USAHA SUKSES",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/4ffdbc8278fcf52ebd3b7ab49569e5db.png",
+              "link": "https://glints.com/id/opportunities/jobs/game-programmer/8b641d88-ce50-47dd-a87c-2ee22486faab?utm_referrer=explore&traceInfo=e878bb40-6467-4f60-b63f-c4b55463ca58"
+            },
+            {
+              "title": "Web Programmer",
+              "salary": "Rp 3,3jt-4jt",
+              "location": "Kalideres, Jakarta Barat, DKI Jakarta",
+              "company_name": "Osaka Ottarie Indonesia",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/7dbf3fa9d203c5f2a4691f96b8a6ecfa.png",
+              "link": "https://glints.com/id/opportunities/jobs/web-programmer/2719f822-bcc0-4ede-b598-9127f19f12cb?utm_referrer=explore&traceInfo=e878bb40-6467-4f60-b63f-c4b55463ca58"
+            },
+            {
+              "title": "IT Programmer",
+              "salary": "Rp 3,7jt-4jt",
+              "location": "Solokan Jeruk, Kab. Bandung, Jawa Barat",
+              "company_name": "PT. NIRWANA ALABARE GARMENT",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/ec7e0a830a008dbe77bb4c97d947f63a.jpeg",
+              "link": "https://glints.com/id/opportunities/jobs/it-programmer/203857b0-4299-4772-abee-65e144260bd6?utm_referrer=explore&traceInfo=e878bb40-6467-4f60-b63f-c4b55463ca58"
+            },
+            {
+              "title": "Staf Programmer",
+              "salary": "Rp 1,1jt-2,2jt",
+              "location": "Lowokwaru, Malang, Jawa Timur",
+              "company_name": "Lembaga Pendidikan Islam Sabilillah Malang",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/09eea28383381d9e452ef8589048d2a5.jpeg",
+              "link": "https://glints.com/id/opportunities/jobs/staf-programmer/8287d515-23fb-41ce-bb86-aac62f5d6197?utm_referrer=explore&traceInfo=e878bb40-6467-4f60-b63f-c4b55463ca58"
+            },
+            {
+              "title": "Staff Programmer",
+              "salary": "Rp 1,8jt-2,5jt",
+              "location": "Grogol, Kab. Sukoharjo, Jawa Tengah",
+              "company_name": "Xie Xie Indonesia",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/43e4f5a9cf112dab60f04b5c62bedab8.png",
+              "link": "https://glints.com/id/opportunities/jobs/staff-programmer/c4bdc1c2-a483-4e1b-8eaf-74d4c4eebedf?utm_referrer=explore&traceInfo=e878bb40-6467-4f60-b63f-c4b55463ca58"
+            },
+            {
+              "title": "Web Programmer",
+              "salary": "Rp 3jt-4jt",
+              "location": "Pasarkliwon, Surakarta, Jawa Tengah",
+              "company_name": "Restu Baru Investama",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/d1e097d279ad025bad5b5f202b7e0276.jpg",
+              "link": "https://glints.com/id/opportunities/jobs/web-programmer/e3bef63d-df56-4064-aba1-bcf670ae781a?utm_referrer=explore&traceInfo=e878bb40-6467-4f60-b63f-c4b55463ca58"
+            },
+            {
+              "title": "Programmer Laravel",
+              "salary": "Rp 4jt-6jt",
+              "location": "Gedebage, Bandung, Jawa Barat",
+              "company_name": "PT Adhikari Inovasi Indonesia",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/80d2b0c0bc930dbe8e01dfe0935235dd.png",
+              "link": "https://glints.com/id/opportunities/jobs/programmer-laravel/db9289cf-7658-4a5e-8dec-371422fcf63d?utm_referrer=explore&traceInfo=e878bb40-6467-4f60-b63f-c4b55463ca58"
+            },
+            {
+              "title": "IT PROGRAMMER",
+              "salary": "Rp 4,6jt-5,5jt",
+              "location": "Ciracas, Jakarta Timur, DKI Jakarta",
+              "company_name": "HSP Net",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/04aa1ad01c095c57a99a9bbe9f6a321a.jpg",
+              "link": "https://glints.com/id/opportunities/jobs/it-programmer/c3882d72-66f0-45f6-a65f-b23e3761d53b?utm_referrer=explore&traceInfo=e878bb40-6467-4f60-b63f-c4b55463ca58"
+            },
+            {
+              "title": "Game Programmer",
+              "salary": "Rp 5jt",
+              "location": "Pagedangan, Kab. Tangerang, Banten",
+              "company_name": "Zgen Media Creative",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/ceb992030628ef00b3426cd2ec599570.png",
+              "link": "https://glints.com/id/opportunities/jobs/game-programmer/a082cfe6-b1ea-46c5-86b5-885631d16330?utm_referrer=explore&traceInfo=e878bb40-6467-4f60-b63f-c4b55463ca58"
+            },
+            {
+              "title": "IT Programmer",
+              "salary": "Rp 3,5jt-4,5jt",
+              "location": "Serpong Utara, Tangerang Selatan, Banten",
+              "company_name": "PT Maleo Edukasi Teknologi",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/d72ad1ff877a9ffc879b4156a759af5a.jpg",
+              "link": "https://glints.com/id/opportunities/jobs/it-programmer/9b3d4610-915a-457d-8ff1-0fa34b1c860a?utm_referrer=explore&traceInfo=e878bb40-6467-4f60-b63f-c4b55463ca58"
+            },
+            {
+              "title": "IT Programmer",
+              "salary": "N/A",
+              "location": "Genteng, Kab. Banyuwangi, Jawa Timur",
+              "company_name": "scholarik.id",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/cf53a36206f62caafeef520c1e511b9e.jpg",
+              "link": "https://glints.com/id/opportunities/jobs/it-programmer/d59a8b38-8d23-48df-b82a-404da0693793?utm_referrer=explore&traceInfo=e878bb40-6467-4f60-b63f-c4b55463ca58"
+            },
+            {
+              "title": "Backend Programmer",
+              "salary": "Rp 5jt-6,5jt",
+              "location": "Kembangan, Jakarta Barat, DKI Jakarta",
+              "company_name": "PT Kualitas Tekhnologi Asia",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/ea7404572e7d9b9737fa9d6312ff84a5.png",
+              "link": "https://glints.com/id/opportunities/jobs/backend-programmer/287af041-dc1c-42f8-b18e-3b5d2e0f3a94?utm_referrer=explore&traceInfo=e878bb40-6467-4f60-b63f-c4b55463ca58"
+            },
+            {
+              "title": "Staff Programmer",
+              "salary": "Rp 1,8jt-2,5jt",
+              "location": "Grogol, Kab. Sukoharjo, Jawa Tengah",
+              "company_name": "Pt. Abata Barokah Indonesia",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/0081f1c51ed416ff2d7050da8c16855f.jpg",
+              "link": "https://glints.com/id/opportunities/jobs/staff-programmer/cdc4f3ad-938c-4593-adae-637334214d21?utm_referrer=explore&traceInfo=e878bb40-6467-4f60-b63f-c4b55463ca58"
+            },
+            {
+              "title": "AWS Programmer",
+              "salary": "Rp 4,5jt-6,5jt",
+              "location": "Cidadap, Bandung, Jawa Barat",
+              "company_name": "QIMTronics",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/034f58a27d9e6ef549a69f3dad78fc49.png",
+              "link": "https://glints.com/id/opportunities/jobs/aws-programmer/3a8916c8-8cac-47c8-aa8b-3699fdc7952d?utm_referrer=explore&traceInfo=e878bb40-6467-4f60-b63f-c4b55463ca58"
+            },
+            {
+              "title": "Programmer Java",
+              "salary": "Rp 5,5jt-6jt",
+              "location": "Cilandak, Jakarta Selatan, DKI Jakarta",
+              "company_name": "Edifly Solusi Indonesia",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/98238c7f313ef94bed1d1d376488b01c.png",
+              "link": "https://glints.com/id/opportunities/jobs/programmer-java/5af253ac-2486-43df-ba89-5683be14c936?utm_referrer=explore&traceInfo=e878bb40-6467-4f60-b63f-c4b55463ca58"
+            },
+            {
+              "title": "Fullstack Programmer",
+              "salary": "Rp 3,5jt-5jt",
+              "location": "Ngaliyan, Semarang, Jawa Tengah",
+              "company_name": "PT Simpanan Teknologi Sejahtera",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/195814dc336a9bb39b7a5507dbc21ea7.png",
+              "link": "https://glints.com/id/opportunities/jobs/fullstack-programmer/93223306-1374-4219-9ae2-827bc0ae7370?utm_referrer=explore&traceInfo=e878bb40-6467-4f60-b63f-c4b55463ca58"
+            },
+            {
+              "title": "Back-end Programmer",
+              "salary": "Rp 6jt-9jt",
+              "location": "Periuk, Tangerang, Banten",
+              "company_name": "PT Data Integrasi Inovasi",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/3d3724ab24eb20c0b59e347fc9c8a14d.jpg",
+              "link": "https://glints.com/id/opportunities/jobs/back-end-programmer/e9b92e47-3c10-4e4d-b12e-06aab73a5266?utm_referrer=explore&traceInfo=e878bb40-6467-4f60-b63f-c4b55463ca58"
+            },
+            {
+              "title": "Full Stack Programmer",
+              "salary": "N/A",
+              "location": "Kelapa Gading, Jakarta Utara, DKI Jakarta",
+              "company_name": "PT Astronacci International",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/0062fbf465efc421f2b5834af8a5950a.jpg",
+              "link": "https://glints.com/id/opportunities/jobs/full-stack-programmer/f2362850-b2f5-4abf-82d7-e5bd0abd852f?utm_referrer=explore&traceInfo=e878bb40-6467-4f60-b63f-c4b55463ca58"
+            },
+            {
+              "title": "Front End Programmer",
+              "salary": "Rp 3jt-3,5jt",
+              "location": "Rappocini, Makassar, Sulawesi Selatan",
+              "company_name": "CV. Booble Mitra Kreatif",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/4ac91c1d1d2a37104092e3e15283af4c.png",
+              "link": "https://glints.com/id/opportunities/jobs/front-end-programmer/47ca3ba5-4dba-4d2d-a6a0-2c5dc554ab62?utm_referrer=explore&traceInfo=e878bb40-6467-4f60-b63f-c4b55463ca58"
+            },
+            {
+              "title": "Unity Game Programmer",
+              "salary": "N/A",
+              "location": "Genteng, Surabaya, Jawa Timur",
+              "company_name": "Dfactory Visual",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/5564b41690bcb65894e2f0143caa05f6.jpg",
+              "link": "https://glints.com/id/opportunities/jobs/unity-game-programmer/43fcfc13-42ef-42d1-80d0-224f3fe5d6fb?utm_referrer=explore&traceInfo=e878bb40-6467-4f60-b63f-c4b55463ca58"
+            },
+            {
+              "title": "Programmer - Laravel Developer",
+              "salary": "Rp 2,5jt-4jt",
+              "location": "Gunungpati, Semarang, Jawa Tengah",
+              "company_name": "PT Ardata Digital Asia",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/e28ecdb11ba4a50e30156a3560c3d800.png",
+              "link": "https://glints.com/id/opportunities/jobs/programmer-laravel-developer/c8fe4e3d-eb0a-4628-bff5-713e28c8f022?utm_referrer=explore&traceInfo=e878bb40-6467-4f60-b63f-c4b55463ca58"
+            }
+          ],
+          "pagination": {
+            "current_page": 2,
+            "last_page": 3,
+            "has_next": true
+          }
+        }
+      }
+    },
+    "page=1|jt=fulltime|wo=onsite|loc=all": {
+      "ts": "2026-01-11T10:08:33.891292Z",
+      "data": {
+        "status": "success",
+        "message": "Success find job",
+        "data": {
+          "jobs": [
+            {
+              "title": "Programmer",
+              "salary": "Rp 3,4jt-5,1jt",
+              "location": "Arcamanik, Bandung, Jawa Barat",
+              "company_name": "PT Ussi Pinbuk Prima Software",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/8123805878ddaf3b30b8b78095a8aec1.jpg",
+              "link": "https://glints.com/id/opportunities/jobs/programmer/86c84efe-97af-4b3f-9296-cf6e75d0b5c1?utm_referrer=explore&traceInfo=6fae4936-a98b-4d7d-bbf6-25bec4d1f35b"
+            },
+            {
+              "title": "Programmer",
+              "salary": "Rp 3,5jt-7jt",
+              "location": "Turi, Kab. Lamongan, Jawa Timur",
+              "company_name": "PT Yafira Digital Technology",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/01ed6a9a0666879da2613e7c08bb75b5.jpeg",
+              "link": "https://glints.com/id/opportunities/jobs/programmer/d74bfeb2-add3-49d8-98da-e8e5b1a5d527?utm_referrer=explore&traceInfo=6fae4936-a98b-4d7d-bbf6-25bec4d1f35b"
+            },
+            {
+              "title": "Programmer",
+              "salary": "Rp 5jt-6jt",
+              "location": "Pasar Minggu, Jakarta Selatan, DKI Jakarta",
+              "company_name": "Asia Sistem Indonesia",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/ad80aa236a9041c0c3261ea67e977dbe.png",
+              "link": "https://glints.com/id/opportunities/jobs/programmer/25766bde-4789-439b-b6b6-ef5429a972a3?utm_referrer=explore&traceInfo=6fae4936-a98b-4d7d-bbf6-25bec4d1f35b"
+            },
+            {
+              "title": "PROGRAMMER",
+              "salary": "Rp 4,3jt-4,8jt",
+              "location": "Gubeng, Surabaya, Jawa Timur",
+              "company_name": "PT MERAK JAYA GROUP",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/9366f596e01b3d1b86753b31a1bb56d4.jpg",
+              "link": "https://glints.com/id/opportunities/jobs/programmer/74137cba-a3ab-4436-815e-b54c7f5c0594?utm_referrer=explore&traceInfo=6fae4936-a98b-4d7d-bbf6-25bec4d1f35b"
+            },
+            {
+              "title": "Programmer",
+              "salary": "Rp 2jt-2,4jt",
+              "location": "Mojoroto, Kediri, Jawa Timur",
+              "company_name": "PT Candratama Grup Nusantara",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/2df55ab43751a8e4b6cf95a3f364c85c.png",
+              "link": "https://glints.com/id/opportunities/jobs/programmer/e6ee8977-844e-4a6a-af8f-a3824810ddd4?utm_referrer=explore&traceInfo=6fae4936-a98b-4d7d-bbf6-25bec4d1f35b"
+            },
+            {
+              "title": "Programmer",
+              "salary": "Rp 2,4jt-3jt",
+              "location": "Jaten, Kab. Karanganyar, Jawa Tengah",
+              "company_name": "SIMRS ProQua Karanganyar",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/64aa51297cf57708bc17e0eb80187b7e.png",
+              "link": "https://glints.com/id/opportunities/jobs/programmer/1909cb89-2733-44b9-a42e-471a2d3d73d2?utm_referrer=explore&traceInfo=6fae4936-a98b-4d7d-bbf6-25bec4d1f35b"
+            },
+            {
+              "title": "Programmer",
+              "salary": "Rp 1jt-3jt",
+              "location": "Ngawi, Kab. Ngawi, Jawa Timur",
+              "company_name": "SIMRS ProQua Karanganyar",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/64aa51297cf57708bc17e0eb80187b7e.png",
+              "link": "https://glints.com/id/opportunities/jobs/programmer/4ba710dc-3f2b-4fe7-bbb9-73d2d97b0668?utm_referrer=explore&traceInfo=6fae4936-a98b-4d7d-bbf6-25bec4d1f35b"
+            },
+            {
+              "title": "Programmer",
+              "salary": "Rp 3jt-4jt",
+              "location": "Cinere, Depok, Jawa Barat",
+              "company_name": "PT Korpora Trainindo Consultant",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/9d00a3a826d9b137d60b9abb11962bb6.jpeg",
+              "link": "https://glints.com/id/opportunities/jobs/programmer/ec42f96e-e1db-493a-af75-5fb9ac913199?utm_referrer=explore&traceInfo=6fae4936-a98b-4d7d-bbf6-25bec4d1f35b"
+            },
+            {
+              "title": "Programmer",
+              "salary": "Rp 5,7jt-8jt",
+              "location": "Cikarang Selatan, Kab. Bekasi, Jawa Barat",
+              "company_name": "PT. Indo Retreading and Tire Services",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/dc57f11e621e1a07cfdba29a2fbb72b0.jpeg",
+              "link": "https://glints.com/id/opportunities/jobs/programmer/585ac40b-5cab-4053-ab76-f6a2dfc403b3?utm_referrer=explore&traceInfo=6fae4936-a98b-4d7d-bbf6-25bec4d1f35b"
+            },
+            {
+              "title": "Software Engineer Programmer C#",
+              "salary": "Rp 10jt-15jt",
+              "location": "Pandaan, Kab. Pasuruan, Jawa Timur",
+              "company_name": "Integrasi Optimal Visitama (IOV)",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/f8d0680d141ef3f0bf06836c0de5180c.png",
+              "link": "https://glints.com/id/opportunities/jobs/software-engineer-programmer-c/354d1cb0-f641-4fc5-86d5-f7db8a2f3a6b?utm_referrer=explore&traceInfo=6fae4936-a98b-4d7d-bbf6-25bec4d1f35b"
+            },
+            {
+              "title": "Backend Programmer",
+              "salary": "N/A",
+              "location": "Medan Sunggal, Medan, Sumatera Utara",
+              "company_name": "Iweka Digital Solusi",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/9e2d3ae265a5e717caa5a099c26717e7.png",
+              "link": "https://glints.com/id/opportunities/jobs/backend-programmer/ba0f0987-135b-4a7c-8968-67f2e38ed0c6?utm_referrer=explore&traceInfo=6fae4936-a98b-4d7d-bbf6-25bec4d1f35b"
+            },
+            {
+              "title": "DotNet Programmer",
+              "salary": "Rp 4jt-6jt",
+              "location": "Kapanewon Sleman, Kab. Sleman, DI Yogyakarta",
+              "company_name": "PT Javan Cipta Solusi",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/b181b23af44b2c03a06d32877696f175.jpg",
+              "link": "https://glints.com/id/opportunities/jobs/dotnet-programmer/1803c19b-1e77-48d5-9528-80ac8e188251?utm_referrer=explore&traceInfo=6fae4936-a98b-4d7d-bbf6-25bec4d1f35b"
+            },
+            {
+              "title": "IT Programmer",
+              "salary": "N/A",
+              "location": "Pademangan, Jakarta Utara, DKI Jakarta",
+              "company_name": "PT Yogura Tekindo",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/5880399123b2713d7c9f387df6cd5cd5.png",
+              "link": "https://glints.com/id/opportunities/jobs/it-programmer/aab80560-a632-4535-95da-beb37e92adc1?utm_referrer=explore&traceInfo=6fae4936-a98b-4d7d-bbf6-25bec4d1f35b"
+            },
+            {
+              "title": "Fullstack Programmer",
+              "salary": "Rp 6jt-8jt",
+              "location": "Kapanewon Sleman, Kab. Sleman, DI Yogyakarta",
+              "company_name": "PT Javan Cipta Solusi",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/b181b23af44b2c03a06d32877696f175.jpg",
+              "link": "https://glints.com/id/opportunities/jobs/fullstack-programmer/4c2976d4-e9f8-4424-937f-6ee527ff6c10?utm_referrer=explore&traceInfo=6fae4936-a98b-4d7d-bbf6-25bec4d1f35b"
+            },
+            {
+              "title": "IT Programmer",
+              "salary": "Rp 5jt-5,1jt",
+              "location": "Wiyung, Surabaya, Jawa Timur",
+              "company_name": "Asway Group",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/23d1b0718a497317bac06dfb3d4606a8.png",
+              "link": "https://glints.com/id/opportunities/jobs/it-programmer/a31c110d-d857-44cd-acfc-1abacb6bb94b?utm_referrer=explore&traceInfo=6fae4936-a98b-4d7d-bbf6-25bec4d1f35b"
+            },
+            {
+              "title": "IT Programmer",
+              "salary": "Rp 7jt-8jt",
+              "location": "Margahayu, Kab. Bandung, Jawa Barat",
+              "company_name": "PT Adira Semesta Industry",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/b9d8569de6effe02af62730b1a50f647.jpeg",
+              "link": "https://glints.com/id/opportunities/jobs/it-programmer/e628cbfe-af69-4f29-9f3a-3439762e3b0c?utm_referrer=explore&traceInfo=6fae4936-a98b-4d7d-bbf6-25bec4d1f35b"
+            },
+            {
+              "title": "Mobile Programmer",
+              "salary": "Rp 5jt-8,5jt",
+              "location": "Cengkareng, Jakarta Barat, DKI Jakarta",
+              "company_name": "PT Fajar Lestari Sejati",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/e1d9b1ccdc1935cadc387ad63d6a79b3.png",
+              "link": "https://glints.com/id/opportunities/jobs/mobile-programmer/0a010e66-3cb9-4828-9c74-a7da725f0254?utm_referrer=explore&traceInfo=6fae4936-a98b-4d7d-bbf6-25bec4d1f35b"
+            },
+            {
+              "title": "Website Programmer",
+              "salary": "Rp 4,5jt-5jt",
+              "location": "Setiabudi, Jakarta Selatan, DKI Jakarta",
+              "company_name": "Designcub3",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/9a507899a648eb750aa69bb82b1fa14f.jpg",
+              "link": "https://glints.com/id/opportunities/jobs/website-programmer/ba4b6fca-0540-45cc-87e9-2ee9574e8b9b?utm_referrer=explore&traceInfo=6fae4936-a98b-4d7d-bbf6-25bec4d1f35b"
+            },
+            {
+              "title": "IT Programmer",
+              "salary": "Rp 3jt-4,5jt",
+              "location": "Cibinong, Kab. Bogor, Jawa Barat",
+              "company_name": "PT Wijaya Putra Samudra (JFOODS.ID)",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/194a6bacaf4e304917f012ea1678569d.png",
+              "link": "https://glints.com/id/opportunities/jobs/it-programmer/b1dfba27-ac13-435c-962e-4713e4088452?utm_referrer=explore&traceInfo=6fae4936-a98b-4d7d-bbf6-25bec4d1f35b"
+            },
+            {
+              "title": "Java Programmer",
+              "salary": "Rp 5,2jt-10jt",
+              "location": "Cibeunying Kidul, Bandung, Jawa Barat",
+              "company_name": "PT.Jasamedika Saranatama",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/6e60381550372c37ca28a6ccd2f5a3a2.png",
+              "link": "https://glints.com/id/opportunities/jobs/java-programmer/d9ec068f-559a-43a5-a39f-56f63c834518?utm_referrer=explore&traceInfo=6fae4936-a98b-4d7d-bbf6-25bec4d1f35b"
+            },
+            {
+              "title": "IT Programmer",
+              "salary": "Rp 6jt-7jt",
+              "location": "Wringin Anom, Kab. Gresik, Jawa Timur",
+              "company_name": "PT ADIPRIMA SURAPRINTA",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/6086e2d4056760b3aaa22c837bb68e71.jpeg",
+              "link": "https://glints.com/id/opportunities/jobs/it-programmer/5da31168-802d-46ec-afa2-3f2ba8c5ded6?utm_referrer=explore&traceInfo=6fae4936-a98b-4d7d-bbf6-25bec4d1f35b"
+            },
+            {
+              "title": "IT Programmer",
+              "salary": "Rp 5jt-7jt",
+              "location": "Benda, Tangerang, Banten",
+              "company_name": "GEA BABY",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/c92a3647afa6705919e5cac94a9f48da.jpeg",
+              "link": "https://glints.com/id/opportunities/jobs/it-programmer/2ec81023-a0dd-4e4d-a659-5fb0de7ad212?utm_referrer=explore&traceInfo=6fae4936-a98b-4d7d-bbf6-25bec4d1f35b"
+            },
+            {
+              "title": "IT Programmer",
+              "salary": "Rp 5jt-8jt",
+              "location": "Kelapa Gading, Jakarta Utara, DKI Jakarta",
+              "company_name": "PT Geo Tekno Globalindo (geotrack)",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/bfa163ba865824b1442f5aeab91a0725.jpg",
+              "link": "https://glints.com/id/opportunities/jobs/it-programmer/f7f8def5-6e83-4b1e-bc50-d03d68c3dbb6?utm_referrer=explore&traceInfo=6fae4936-a98b-4d7d-bbf6-25bec4d1f35b"
+            },
+            {
+              "title": "IT programmer",
+              "salary": "Rp 4jt-5jt",
+              "location": "Waru, Kab. Sidoarjo, Jawa Timur",
+              "company_name": "CV PELANGI",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/21edc86719ab01eba37ca38e9e316e71.jfif",
+              "link": "https://glints.com/id/opportunities/jobs/it-programmer/95e15832-1c85-4d94-8d5a-e5ab3f476a74?utm_referrer=explore&traceInfo=6fae4936-a98b-4d7d-bbf6-25bec4d1f35b"
+            },
+            {
+              "title": "IT Programmer",
+              "salary": "Rp 5,1jt-7jt",
+              "location": "Kedunghalang, Bogor, Jawa Barat",
+              "company_name": "PT Jessindo Prakarsa",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/3d22bbe8daf64f51f7e00837dbaaf7dc.jpg",
+              "link": "https://glints.com/id/opportunities/jobs/it-programmer/e94c872c-767f-4002-aa41-7582950f9d54?utm_referrer=explore&traceInfo=6fae4936-a98b-4d7d-bbf6-25bec4d1f35b"
+            },
+            {
+              "title": "Web Programmer",
+              "salary": "Rp 5,3jt-7jt",
+              "location": "Pondok Aren, Tangerang Selatan, Banten",
+              "company_name": "PT Indodev Niaga Internet",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/3f4f77c63dff1a8d062b7afa03185867.jpeg",
+              "link": "https://glints.com/id/opportunities/jobs/web-programmer/770ea69f-9473-4a35-8b78-f99f940bef45?utm_referrer=explore&traceInfo=6fae4936-a98b-4d7d-bbf6-25bec4d1f35b"
+            },
+            {
+              "title": "Analyst Programmer",
+              "salary": "Rp 10jt-15jt",
+              "location": "Tanjung Priok, Jakarta Utara, DKI Jakarta",
+              "company_name": "PT. Vlink Consulting Indonesia",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/4f1f282c33a24321f7aa0eba44e85225.png",
+              "link": "https://glints.com/id/opportunities/jobs/analyst-programmer/5a592909-81c6-407c-ae4f-9b1de74e5c6e?utm_referrer=explore&traceInfo=6fae4936-a98b-4d7d-bbf6-25bec4d1f35b"
+            },
+            {
+              "title": "IT Programmer",
+              "salary": "Rp 5jt-10jt",
+              "location": "Cikarang Barat, Kab. Bekasi, Jawa Barat",
+              "company_name": "Million Consulting",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/43843896eb18506c4c495434630dba27.png",
+              "link": "https://glints.com/id/opportunities/jobs/it-programmer/9997658f-efdf-4e75-9054-249125cb51e8?utm_referrer=explore&traceInfo=6fae4936-a98b-4d7d-bbf6-25bec4d1f35b"
+            },
+            {
+              "title": "IT Programmer",
+              "salary": "Rp 3,8jt-4jt",
+              "location": "Solokan Jeruk, Kab. Bandung, Jawa Barat",
+              "company_name": "PT. NIRWANA ALABARE GARMENT",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/ec7e0a830a008dbe77bb4c97d947f63a.jpeg",
+              "link": "https://glints.com/id/opportunities/jobs/it-programmer/a6d5ac95-d0cc-4920-b871-0f2676c4d009?utm_referrer=explore&traceInfo=6fae4936-a98b-4d7d-bbf6-25bec4d1f35b"
+            },
+            {
+              "title": "Junior Programmer",
+              "salary": "Rp 4,5jt-7jt",
+              "location": "Kuta, Kab. Badung, Bali",
+              "company_name": "PT Bestari Jaya",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/9c7df534d002be1ee5f015e90d3e9053.jpg",
+              "link": "https://glints.com/id/opportunities/jobs/junior-programmer/95553e84-e2d8-4f59-afe4-b0eab3c0b39d?utm_referrer=explore&traceInfo=6fae4936-a98b-4d7d-bbf6-25bec4d1f35b"
+            }
+          ],
+          "pagination": {
+            "current_page": 1,
+            "last_page": 2,
+            "has_next": true
+          }
+        }
+      }
+    },
+    "page=1|jt=|wo=|loc=all": {
+      "ts": "2026-05-18T12:23:10.570259Z",
+      "data": {
+        "status": "success",
+        "message": "Success find job",
+        "data": {
+          "jobs": [
+            {
+              "title": "Programmer",
+              "salary": "Rp 5,1jt-6jt",
+              "location": "Jakarta Selatan, DKI Jakarta",
+              "company_name": "PT. Tirta Gracia Utama",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1-internal.aliyuncs.com/company-logo/4f4d24bf1739c8c016452626430b9d1f.jpg",
+              "link": "https://glints.com/id/opportunities/jobs/programmer/5f55cbd6-fc03-4cbe-86a9-6096cfeaa574?utm_referrer=explore&traceInfo=e3f1380c-f99b-4b3e-a73f-9aaed9b2033b"
+            },
+            {
+              "title": "Programmer",
+              "salary": "N/A",
+              "location": "Jakarta Pusat, DKI Jakarta",
+              "company_name": "Altek Citra Cemerlang",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1-internal.aliyuncs.com/company-logo/d833ea706b4561b11a2823d5ad0d1e95.png",
+              "link": "https://glints.com/id/opportunities/jobs/programmer/8aa41fa4-6184-4a6a-b45a-66ac8fe0685b?utm_referrer=explore&traceInfo=e3f1380c-f99b-4b3e-a73f-9aaed9b2033b"
+            },
+            {
+              "title": "Programmer",
+              "salary": "N/A",
+              "location": "Kab. Cirebon, Jawa Barat",
+              "company_name": "PT Bhinneka Sangkuriang Transport ( Bhisa.id )",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1-internal.aliyuncs.com/company-logo/f162abe0c740d52da5294fb907c18ce7.png",
+              "link": "https://glints.com/id/opportunities/jobs/programmer/19e402a8-f50d-4d34-a756-29b01761485b?utm_referrer=explore&traceInfo=e3f1380c-f99b-4b3e-a73f-9aaed9b2033b"
+            },
+            {
+              "title": "Programmer",
+              "salary": "Rp 5,3jt-6jt",
+              "location": "Surabaya, Jawa Timur",
+              "company_name": "PT Karya Mas Makmur",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1-internal.aliyuncs.com/company-logo/99ea62c1937dfb92f2e5832c947acfc2.png",
+              "link": "https://glints.com/id/opportunities/jobs/programmer/bc4e94c5-ccde-4d16-8985-02b214d1d607?utm_referrer=explore&traceInfo=e3f1380c-f99b-4b3e-a73f-9aaed9b2033b"
+            },
+            {
+              "title": "Programmer",
+              "salary": "Rp 3,5jt-7jt",
+              "location": "Kab. Lamongan, Jawa Timur",
+              "company_name": "PT Yafira Digital Technology",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1-internal.aliyuncs.com/company-logo/01ed6a9a0666879da2613e7c08bb75b5.jpeg",
+              "link": "https://glints.com/id/opportunities/jobs/programmer/bb63d0fa-2c6f-48bb-b052-fbb333a0a901?utm_referrer=explore&traceInfo=e3f1380c-f99b-4b3e-a73f-9aaed9b2033b"
+            },
+            {
+              "title": "Programmer",
+              "salary": "N/A",
+              "location": "Bandung, Jawa Barat",
+              "company_name": "MEDION GROUP",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1-internal.aliyuncs.com/company-logo/b2aca310d79f2bd1c60aa97c497a64a6.jpg",
+              "link": "https://glints.com/id/opportunities/jobs/programmer/754eb524-3470-43a7-a914-1a2a717db06f?utm_referrer=explore&traceInfo=e3f1380c-f99b-4b3e-a73f-9aaed9b2033b"
+            },
+            {
+              "title": "Programmer",
+              "salary": "Rp 4,6jt-6,7jt",
+              "location": "Jakarta Selatan, DKI Jakarta",
+              "company_name": "Edifly Solusi Indonesia",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1-internal.aliyuncs.com/company-logo/98238c7f313ef94bed1d1d376488b01c.png",
+              "link": "https://glints.com/id/opportunities/jobs/programmer/4e68bbb8-675b-40e9-8a53-a6d7f6df6ac6?utm_referrer=explore&traceInfo=e3f1380c-f99b-4b3e-a73f-9aaed9b2033b"
+            },
+            {
+              "title": "PROGRAMMER",
+              "salary": "Rp 3,5jt-5jt",
+              "location": "Semarang, Jawa Tengah",
+              "company_name": "Cv Lovina",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1-internal.aliyuncs.com/company-logo/fd0f029a22ce8f712288d937036dcd2d.png",
+              "link": "https://glints.com/id/opportunities/jobs/programmer/953a6867-9f7b-4543-8e7f-a8750b9f6c6c?utm_referrer=explore&traceInfo=e3f1380c-f99b-4b3e-a73f-9aaed9b2033b"
+            },
+            {
+              "title": "Programmer",
+              "salary": "Rp 7jt-11jt",
+              "location": "Jakarta Selatan, DKI Jakarta",
+              "company_name": "PT Inspirasi Maju Jaya",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1-internal.aliyuncs.com/company-logo/6c042bda47ae227b00a4d3dabf302caa.jpeg",
+              "link": "https://glints.com/id/opportunities/jobs/programmer/58280fb8-ecc3-4885-80cf-cdaa5127866f?utm_referrer=explore&traceInfo=e3f1380c-f99b-4b3e-a73f-9aaed9b2033b"
+            },
+            {
+              "title": "Programmer",
+              "salary": "Rp 2,5jt-4jt",
+              "location": "Surabaya, Jawa Timur",
+              "company_name": "PT TEKNOLOGI AGUNG NUSANTARA",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1-internal.aliyuncs.com/company-logo/fcb921970dd8b20cce4f72469da0029a.jpg",
+              "link": "https://glints.com/id/opportunities/jobs/programmer/4be51eee-9337-4746-ae7c-238dba69bfa1?utm_referrer=explore&traceInfo=e3f1380c-f99b-4b3e-a73f-9aaed9b2033b"
+            },
+            {
+              "title": "Programmer",
+              "salary": "Rp 3jt-4jt",
+              "location": "Depok, Jawa Barat",
+              "company_name": "PT Korpora Trainindo Consultant",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1-internal.aliyuncs.com/company-logo/9d00a3a826d9b137d60b9abb11962bb6.jpeg",
+              "link": "https://glints.com/id/opportunities/jobs/programmer/6b182545-c49a-4ba4-ad63-5d9204c7cd3e?utm_referrer=explore&traceInfo=e3f1380c-f99b-4b3e-a73f-9aaed9b2033b"
+            },
+            {
+              "title": "Programmer",
+              "salary": "Rp 2jt-2,5jt",
+              "location": "Kab. Sukoharjo, Jawa Tengah",
+              "company_name": "Xie Xie Indonesia",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1-internal.aliyuncs.com/company-logo/43e4f5a9cf112dab60f04b5c62bedab8.png",
+              "link": "https://glints.com/id/opportunities/jobs/programmer/ed95cf35-5968-4a10-9dc2-272098ce8f08?utm_referrer=explore&traceInfo=e3f1380c-f99b-4b3e-a73f-9aaed9b2033b"
+            },
+            {
+              "title": "Programmer",
+              "salary": "N/A",
+              "location": "Kab. Sleman, DI Yogyakarta",
+              "company_name": "FIXSINDO DIGITAL",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1-internal.aliyuncs.com/company-logo/704c50614e15d7ef406fad85f76a28c1.jpg",
+              "link": "https://glints.com/id/opportunities/jobs/programmer/e7a13d41-a070-40fa-9247-1d27c6cea700?utm_referrer=explore&traceInfo=e3f1380c-f99b-4b3e-a73f-9aaed9b2033b"
+            },
+            {
+              "title": "Programmer",
+              "salary": "Rp 2,8jt-3,5jt",
+              "location": "Yogyakarta, DI Yogyakarta",
+              "company_name": "ELS.ID (CV Sukses Sejati Computama)",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1-internal.aliyuncs.com/company-logo/6a36a7b0e2652de234ecd661d122c217.jpeg",
+              "link": "https://glints.com/id/opportunities/jobs/programmer/f44fd28b-6991-437a-b2ef-d63035c26e5c?utm_referrer=explore&traceInfo=e3f1380c-f99b-4b3e-a73f-9aaed9b2033b"
+            },
+            {
+              "title": "PROGRAMMER",
+              "salary": "Rp 3jt-4jt",
+              "location": "Kab. Bantul, DI Yogyakarta",
+              "company_name": "PT. INDO TECHNO MEDIC",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1-internal.aliyuncs.com/company-logo/1fa131498031df9f1d588ca37353eff4.jpg",
+              "link": "https://glints.com/id/opportunities/jobs/programmer/d964358e-5f28-42dd-8b05-896f1602b737?utm_referrer=explore&traceInfo=e3f1380c-f99b-4b3e-a73f-9aaed9b2033b"
+            },
+            {
+              "title": "Programmer",
+              "salary": "Rp 4jt-6,7jt",
+              "location": "Jakarta Barat, DKI Jakarta",
+              "company_name": "PT Tri Nindya Utama",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1-internal.aliyuncs.com/company-logo/4b8f903cb39f12b09bc211ccfbbd98c7.jpg",
+              "link": "https://glints.com/id/opportunities/jobs/programmer/acfabb90-cd7e-40f4-96e1-ac14f5b812fa?utm_referrer=explore&traceInfo=e3f1380c-f99b-4b3e-a73f-9aaed9b2033b"
+            },
+            {
+              "title": "Programmer",
+              "salary": "Rp 3jt-4jt",
+              "location": "Depok, Jawa Barat",
+              "company_name": "PT Korpora Trainindo Consultant",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1-internal.aliyuncs.com/company-logo/9d00a3a826d9b137d60b9abb11962bb6.jpeg",
+              "link": "https://glints.com/id/opportunities/jobs/programmer/4cd96f81-eced-4052-9609-eaafeefb8996?utm_referrer=explore&traceInfo=e3f1380c-f99b-4b3e-a73f-9aaed9b2033b"
+            },
+            {
+              "title": "IT Programmer",
+              "salary": "Rp 4jt-4,5jt",
+              "location": "Tangerang, Banten",
+              "company_name": "Regulus Group",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1-internal.aliyuncs.com/company-logo/0422ff2806c8b9ec092ab1fec0f17839.jpg",
+              "link": "https://glints.com/id/opportunities/jobs/it-programmer/dfcc771b-66db-4d49-8c3f-6e2334358623?utm_referrer=explore&traceInfo=e3f1380c-f99b-4b3e-a73f-9aaed9b2033b"
+            },
+            {
+              "title": "IT Programmer",
+              "salary": "Rp 4jt-5,5jt",
+              "location": "Bandung, Jawa Barat",
+              "company_name": "Momiasi Indonesia Official",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1-internal.aliyuncs.com/company-logo/6ecf01a1907f4727a729480ec332e61e.jpeg",
+              "link": "https://glints.com/id/opportunities/jobs/it-programmer/00c975f7-9474-45ba-8397-d976f573059a?utm_referrer=explore&traceInfo=e3f1380c-f99b-4b3e-a73f-9aaed9b2033b"
+            },
+            {
+              "title": "GOLANG PROGRAMMER",
+              "salary": "Rp 4,5jt-8jt",
+              "location": "Bandung, Jawa Barat",
+              "company_name": "PT. Sarana Pactindo",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1-internal.aliyuncs.com/company-logo/aae66c11e7209c937c9d365532c555fb.jpg",
+              "link": "https://glints.com/id/opportunities/jobs/golang-programmer/e72d6610-bcdc-45ab-90f0-c676ea321454?utm_referrer=explore&traceInfo=e3f1380c-f99b-4b3e-a73f-9aaed9b2033b"
+            },
+            {
+              "title": "Odoo Programmer",
+              "salary": "N/A",
+              "location": "Tangerang, Banten",
+              "company_name": "PT Navios Evolusi Solusindo",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1-internal.aliyuncs.com/company-logo/4e303604eb3a1b4c22f64fb84c5d587a.png",
+              "link": "https://glints.com/id/opportunities/jobs/odoo-programmer/b3cc0570-12d9-49fd-b855-1646f9bc5417?utm_referrer=explore&traceInfo=e3f1380c-f99b-4b3e-a73f-9aaed9b2033b"
+            },
+            {
+              "title": "Java Programmer",
+              "salary": "N/A",
+              "location": "Jakarta Timur, DKI Jakarta",
+              "company_name": "PT Venturium System Indonesia",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1-internal.aliyuncs.com/company-logo/7708a6ac23c3a541ca61b0754b8739ca.png",
+              "link": "https://glints.com/id/opportunities/jobs/java-programmer/4b3080f4-e635-44e4-a01b-ad22026eee86?utm_referrer=explore&traceInfo=e3f1380c-f99b-4b3e-a73f-9aaed9b2033b"
+            },
+            {
+              "title": "IT PROGRAMMER",
+              "salary": "N/A",
+              "location": "Jakarta Utara, DKI Jakarta",
+              "company_name": "PT Rajawali Lintas Samudera",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1-internal.aliyuncs.com/company-logo/beb05d13f70e182ecbe297704c1c9c73.jpg",
+              "link": "https://glints.com/id/opportunities/jobs/it-programmer/751ef9c7-181b-46b0-a0ee-f1e7a36d4a88?utm_referrer=explore&traceInfo=e3f1380c-f99b-4b3e-a73f-9aaed9b2033b"
+            },
+            {
+              "title": "Fullstack Programmer",
+              "salary": "Rp 5jt-6jt",
+              "location": "Tangerang Selatan, Banten",
+              "company_name": "MIGUNESIA",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1-internal.aliyuncs.com/company-logo/031906dd52d2c90af2446f77a33f49d0.jpeg",
+              "link": "https://glints.com/id/opportunities/jobs/fullstack-programmer/161c0bdd-2225-4621-a0cb-fb26efcacc87?utm_referrer=explore&traceInfo=e3f1380c-f99b-4b3e-a73f-9aaed9b2033b"
+            },
+            {
+              "title": "PROGRAMMER JUNIOR",
+              "salary": "Rp 6jt-6,5jt",
+              "location": "Jakarta Barat, DKI Jakarta",
+              "company_name": "Nusantara Sakti Group",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1-internal.aliyuncs.com/company-logo/b4b6d4378e7834800bf5395c8685ce8d.jpg",
+              "link": "https://glints.com/id/opportunities/jobs/programmer-junior/bc98318e-485d-4161-997a-c40d613ec59e?utm_referrer=explore&traceInfo=e3f1380c-f99b-4b3e-a73f-9aaed9b2033b"
+            },
+            {
+              "title": "IT Programmer",
+              "salary": "Rp 10jt-13jt",
+              "location": "Jakarta Selatan, DKI Jakarta",
+              "company_name": "Elabram Systems",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1-internal.aliyuncs.com/company-logo/ec2d89492aa51b4e5850f4d08ad869e4.jpeg",
+              "link": "https://glints.com/id/opportunities/jobs/it-programmer/c9fe6ce0-8dd9-4ea4-a952-ca2cf6a3cbbb?utm_referrer=explore&traceInfo=e3f1380c-f99b-4b3e-a73f-9aaed9b2033b"
+            },
+            {
+              "title": "IT Programmer",
+              "salary": "N/A",
+              "location": "Kab. Bekasi, Jawa Barat",
+              "company_name": "PT. DAYA EKA SAMUDERA JAKARTA",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1-internal.aliyuncs.com/company-logo/f01776d5d32f0a96ba8e55c5496f3274.jpg",
+              "link": "https://glints.com/id/opportunities/jobs/it-programmer/2c32b841-246f-46ae-b3c8-c3f3b72188ba?utm_referrer=explore&traceInfo=e3f1380c-f99b-4b3e-a73f-9aaed9b2033b"
+            },
+            {
+              "title": "IT Programmer",
+              "salary": "Rp 3,7jt-4jt",
+              "location": "Semarang, Jawa Tengah",
+              "company_name": "PT Derma Sembilan Indonesia",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1-internal.aliyuncs.com/company-logo/17db308bf6b800b1adeb9e9c84fb23d5.jpg",
+              "link": "https://glints.com/id/opportunities/jobs/it-programmer/e8bb9e44-1c15-4d92-920a-061ffd2fcd23?utm_referrer=explore&traceInfo=e3f1380c-f99b-4b3e-a73f-9aaed9b2033b"
+            },
+            {
+              "title": "Desktop Programmer",
+              "salary": "Rp 2jt-5jt",
+              "location": "Surabaya, Jawa Timur",
+              "company_name": "Software Gallery",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1-internal.aliyuncs.com/company-logo/844fa1d6939b62488a692990cc5d7a09.png",
+              "link": "https://glints.com/id/opportunities/jobs/desktop-programmer/00c09780-3eab-4a7e-82c9-9c36af840490?utm_referrer=explore&traceInfo=e3f1380c-f99b-4b3e-a73f-9aaed9b2033b"
+            },
+            {
+              "title": "IT Programmer",
+              "salary": "N/A",
+              "location": "Bogor, Jawa Barat",
+              "company_name": "Pt Boer Technology",
+              "company_logo": "https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1-internal.aliyuncs.com/company-logo/ebfc5ddbcbc6623117c44818a96fe50f.png",
+              "link": "https://glints.com/id/opportunities/jobs/it-programmer/2a9ebaa6-84b6-49f3-99b6-006983a38901?utm_referrer=explore&traceInfo=e3f1380c-f99b-4b3e-a73f-9aaed9b2033b"
+            }
+          ],
+          "pagination": {
+            "current_page": 1,
+            "last_page": 2,
+            "has_next": true
+          }
+        }
+      }
+    }
+  }
+}

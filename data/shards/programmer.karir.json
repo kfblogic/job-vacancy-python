@@ -1,0 +1,90 @@
+{
+  "_meta": {
+    "keyword": "Programmer",
+    "source": "karir",
+    "updated_utc": "2026-05-18T12:23:12.204091Z"
+  },
+  "variants": {
+    "page=1|jt=|wo=|loc=all": {
+      "ts": "2026-05-18T12:23:12.204010Z",
+      "data": {
+        "status": "success",
+        "message": "Success find job",
+        "data": {
+          "total_jobs": 2,
+          "jobs": [
+            {
+              "title": "Programmer",
+              "company_name": "PT Handal Guna Sarana",
+              "company_logo": "https://karir-production.nos.jkt-1.neo.id/logos/80/1161180/Logo_HGS.jpg",
+              "salary": "N/A",
+              "location": "Prov. DKI-Jakarta",
+              "link": "https://karir.com/opportunities/1401046"
+            },
+            {
+              "title": "Programmer",
+              "company_name": "PT Wynfield Global Ventures",
+              "company_logo": "https://karir-production.nos.jkt-1.neo.id/logos/06/2422506/logo_hello.jpg",
+              "salary": "N/A",
+              "location": "Prov. DKI-Jakarta",
+              "link": "https://karir.com/opportunities/1357009"
+            }
+          ],
+          "pagination": {
+            "current_page": 1,
+            "last_page": 1,
+            "has_next": false
+          }
+        }
+      }
+    },
+    "page=2|jt=|wo=|loc=all": {
+      "ts": "2025-09-14T18:02:02.143465Z",
+      "data": {
+        "status": "success",
+        "message": "Success find job",
+        "data": {
+          "total_jobs": 5,
+          "jobs": [],
+          "pagination": {
+            "current_page": 2,
+            "last_page": 1,
+            "has_next": false
+          }
+        }
+      }
+    },
+    "page=1|jt=|wo=onsite|loc=all": {
+      "ts": "2026-01-11T10:09:01.430978Z",
+      "data": {
+        "status": "success",
+        "message": "Success find job",
+        "data": {
+          "total_jobs": 0,
+          "jobs": [],
+          "pagination": {
+            "current_page": 1,
+            "last_page": 0,
+            "has_next": false
+          }
+        }
+      }
+    },
+    "page=1|jt=|wo=hybird|loc=all": {
+      "ts": "2026-01-11T10:09:07.289915Z",
+      "data": {
+        "status": "success",
+        "message": "Success find job",
+        "data": {
+          "total_jobs": 0,
+          "jobs": [],
+          "pagination": {
+            "current_page": 1,
+            "last_page": 0,
+            "has_next": false
+          }
+        }
+      }
+    }
+  }
+}

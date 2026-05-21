@@ -1,0 +1,828 @@
+{
+  "_meta": {
+    "keyword": "Programmer",
+    "source": "jobstreet",
+    "updated_utc": "2026-05-18T12:23:11.910333Z"
+  },
+  "variants": {
+    "page=1|jt=|wo=|loc=all": {
+      "ts": "2026-05-18T12:23:11.910240Z",
+      "data": {
+        "status": "success",
+        "message": "Success find job",
+        "data": {
+          "total_jobs": "944 pekerjaan",
+          "jobs": [
+            {
+              "title": "Programmer",
+              "company_name": "ARTHA UTAMA PLASINDO",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/10a2e197-d0c1-446c-9bec-3e1c0734bf04.1/jdpLogo",
+              "salary": "Rp6.000.000 - Rp9.000.000 per month",
+              "location": "Kabupaten Bekasi, Jawa Barat",
+              "link": "https://id.jobstreet.com/id/job/92162128?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Fullstack Developer",
+              "company_name": "PT Siba Surya",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/b3017f4f-c00f-45da-9d85-c1a35f23d495.1/jdpLogo",
+              "salary": "Rp6,700,000 - Rp10,000,000 per month",
+              "location": "Semarang, Jawa Tengah",
+              "link": "https://id.jobstreet.com/id/job/92169266?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "IT Developer Staff",
+              "company_name": "PT NBC Indonesia",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/5d2b512f-8c0e-4de8-9af1-67d59f81828b.1/jdpLogo",
+              "salary": "Rp5.886.853 - Rp6.500.000 per month",
+              "location": "Karawang, Jawa Barat",
+              "link": "https://id.jobstreet.com/id/job/92152046?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Fullstack developer",
+              "company_name": "PT Kodenusa Tekno Buana",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/ee3e7b5a-a75e-43ac-a8b1-d97ac29cd754.1/jdpLogo",
+              "salary": "Rp6.700.000 - Rp10.000.000 per month",
+              "location": "Jakarta Barat, Jakarta Raya",
+              "link": "https://id.jobstreet.com/id/job/92141841?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "IT Programmer",
+              "company_name": "PT Asco Prima Mobilindo",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/28df8adc-76a8-417a-8af3-01f941774ea4.1/jdpLogo",
+              "salary": "N/A",
+              "location": "Jakarta Raya",
+              "link": "https://id.jobstreet.com/id/job/91731636?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Software Engineer",
+              "company_name": "PT Sentra Vidya Utama",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/12512ac9-a156-4076-bf07-7d97bd4b865d.1/jdpLogo",
+              "salary": "Rp7.000.000 - Rp9.000.000 per month",
+              "location": "Surabaya, Jawa Timur",
+              "link": "https://id.jobstreet.com/id/job/92179879?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "PROGRAMMER WEB",
+              "company_name": "N/A",
+              "company_logo": "N/A",
+              "salary": "Rp6.000.000 - Rp7.000.000 per month",
+              "location": "Karawang, Jawa Barat",
+              "link": "https://id.jobstreet.com/id/job/92092188?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Fullstack Developer",
+              "company_name": "Elitez Pte Ltd",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/f0e0b92f-c04e-4ac7-b071-12fbb5ecac79.1/jdpLogo",
+              "salary": "Rp15,000,000 - Rp20,000,000 per month",
+              "location": "Jakarta Barat, Jakarta Raya",
+              "link": "https://id.jobstreet.com/id/job/92166533?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Full Stack Developer",
+              "company_name": "Solutech Indonesia Maju",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/012d8d57-439d-453a-98a2-71dc8a18ba1f.1/jdpLogo",
+              "salary": "Rp8.000.000 - Rp9.500.000 per month",
+              "location": "Cempaka Putih, Jakarta Raya",
+              "link": "https://id.jobstreet.com/id/job/91909166?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Backend Programmer",
+              "company_name": "PT Nutech Integrasi",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/dd17ba14-4fe4-4e21-bc15-6018007c5114.1/jdpLogo",
+              "salary": "N/A",
+              "location": "Jakarta Raya",
+              "link": "https://id.jobstreet.com/id/job/92000167?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Web Programmer",
+              "company_name": "PT Panin Asset Management",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/60024acf-b963-4e78-aa3a-65b69f11e01e.1/jdpLogo",
+              "salary": "N/A",
+              "location": "Jakarta Selatan, Jakarta Raya",
+              "link": "https://id.jobstreet.com/id/job/91918936?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Software Developer",
+              "company_name": "PT. Citra Hannochs Niagantara",
+              "company_logo": "N/A",
+              "salary": "N/A",
+              "location": "Medan, Sumatera Utara",
+              "link": "https://id.jobstreet.com/id/job/92176934?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Back End Engineer (Node JS) - Outsource",
+              "company_name": "PT Serasi Autoraya (Member of Astra)",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/1b322f0b-200e-485b-9b52-4beef5b5c1bc.1/jdpLogo",
+              "salary": "N/A",
+              "location": "DI Yogyakarta",
+              "link": "https://id.jobstreet.com/id/job/92166564?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "IT Programmer",
+              "company_name": "PT Nusantara Pelabuhan Handal Tbk",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/1c8e6512-4f3d-45c7-a6a2-2604c59eb712.1/jdpLogo",
+              "salary": "N/A",
+              "location": "Jakarta Utara, Jakarta Raya",
+              "link": "https://id.jobstreet.com/id/job/91691222?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "IT Programmer",
+              "company_name": "PT Sinar Surya Bajaprofilindo",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/b6022354-5e65-407a-b58f-78372a5d3293.1/jdpLogo",
+              "salary": "N/A",
+              "location": "Cikupa, Banten",
+              "link": "https://id.jobstreet.com/id/job/91836985?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "IT Developer",
+              "company_name": "PT Wahana Sejahtera Indonesia",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/ba4db665-9732-4535-8c34-46e4191e42ef.1/jdpLogo",
+              "salary": "N/A",
+              "location": "Jakarta Selatan, Jakarta Raya",
+              "link": "https://id.jobstreet.com/id/job/92056729?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Software Developer",
+              "company_name": "PT System Ever Indonesia",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/2644f8bf-388f-4ca3-b8fb-d541647544d5.2/jdpLogo",
+              "salary": "Rp7.500.000 - Rp9.500.000 per month",
+              "location": "Jakarta Selatan, Jakarta Raya",
+              "link": "https://id.jobstreet.com/id/job/91677128?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "IT Programmer",
+              "company_name": "PT BPR Prima Kredit Mandiri",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/50763304-e66b-4ed4-a448-57892c2a254d.1/jdpLogo",
+              "salary": "N/A",
+              "location": "Tangerang, Banten",
+              "link": "https://id.jobstreet.com/id/job/91890592?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Full Stack Developer (Nuxt.js & Laravel)",
+              "company_name": "PT Eigerindo Multi Produk Industri",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/938c3641-1e03-4a02-a4a0-07db9d88b670.1/jdpLogo",
+              "salary": "N/A",
+              "location": "Kabupaten Bandung, Jawa Barat",
+              "link": "https://id.jobstreet.com/id/job/92168194?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Full Stack Engineer",
+              "company_name": "PT DIGITAL XCELERATION NUSANTARA",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/8ac97014-7bdf-4f3e-bfda-dd68d9e0a8da.1/jdpLogo",
+              "salary": "N/A",
+              "location": "Jakarta Selatan, Jakarta Raya",
+              "link": "https://id.jobstreet.com/id/job/91756596?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "IT & Web Developer",
+              "company_name": "PT Lamindo Prima Mandiri",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/fceb3f54-b04f-425d-b07a-342f8f280374.1/jdpLogo",
+              "salary": "Rp5.000.000 - Rp6.000.000 per month",
+              "location": "Jakarta Raya",
+              "link": "https://id.jobstreet.com/id/job/91622239?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "IT Programmer",
+              "company_name": "PT. Indo Pack Printing",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/0b651e26-d79c-4eee-b219-c7401e5b1779.1/jdpLogo",
+              "salary": "Rp6.000.000 - Rp8.000.000 per month",
+              "location": "Sidoarjo, Jawa Timur",
+              "link": "https://id.jobstreet.com/id/job/91786128?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Programmer",
+              "company_name": "PT. Lestari Mulia Sentosa",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/512854f5-2082-4a70-95dd-e7088726cded.1/jdpLogo",
+              "salary": "N/A",
+              "location": "Sidoarjo, Jawa Timur",
+              "link": "https://id.jobstreet.com/id/job/92064275?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Full Stack Developer",
+              "company_name": "Yayasan BPK Penabur Jakarta",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/47dc3796-2ea1-459e-98b6-9f1acc4dfc9e.1/jdpLogo",
+              "salary": "N/A",
+              "location": "Jakarta Barat, Jakarta Raya",
+              "link": "https://id.jobstreet.com/id/job/91693479?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Information Technology (Programmer)",
+              "company_name": "PT Kitoshindo International Biotech",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/c2dfbade-10f6-4810-a731-721ced1eb036.1/jdpLogo",
+              "salary": "N/A",
+              "location": "Mojokerto, Jawa Timur",
+              "link": "https://id.jobstreet.com/id/job/92076002?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Corporate HRIS Programmer",
+              "company_name": "PT Wahana Duta Jaya Rucika",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/03a88eb4-d630-4440-affa-3d83064d9808.2/jdpLogo",
+              "salary": "N/A",
+              "location": "Jakarta Raya",
+              "link": "https://id.jobstreet.com/id/job/92029460?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Staff IT — Programmer (Surabaya)",
+              "company_name": "PT Timur Mila Utama",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/e4ad5964-ed28-4478-b327-be089a3b1283.1/jdpLogo",
+              "salary": "Rp4.500.000 - Rp6.000.000 per month",
+              "location": "Surabaya, Jawa Timur",
+              "link": "https://id.jobstreet.com/id/job/92144371?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "PLC Programmer",
+              "company_name": "PT. MSK MORI SHOWA KOGYO",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/bb6fea40-f6ed-49f4-b9e3-1e0df5d54776.1/jdpLogo",
+              "salary": "Rp5.500.000 - Rp8.000.000 per month",
+              "location": "Kabupaten Tangerang, Banten",
+              "link": "https://id.jobstreet.com/id/job/92088388?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "IT GPS Developer",
+              "company_name": "PT Batavia Prosperindo Trans Tbk.",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/776a3670-4ffd-45b1-8270-16f33413591d.1/jdpLogo",
+              "salary": "Rp6.000.000 - Rp8.500.000 per month",
+              "location": "Serpong, Banten",
+              "link": "https://id.jobstreet.com/id/job/91972874?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "PROGRAMMER CNC MILLING & CNC BUBUT",
+              "company_name": "PT Presisi Widya",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/03c15111-6757-4afd-854e-302e030591cc.1/jdpLogo",
+              "salary": "Rp7.000.000 - Rp8.000.000 per month",
+              "location": "Bekasi, Jawa Barat",
+              "link": "https://id.jobstreet.com/id/job/91976929?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Software Engineer",
+              "company_name": "PT Inti Everspring Indonesia (Jakarta branch)",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/c8bafcfb-eb7d-413d-bb7e-c5c721cdc4b0.1/jdpLogo",
+              "salary": "N/A",
+              "location": "Serang, Banten",
+              "link": "https://id.jobstreet.com/id/job/91889473?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Industrial Software Developer & Program Analyst",
+              "company_name": "PT. Omega Group - Jakarta",
+              "company_logo": "N/A",
+              "salary": "Rp7.000.000 - Rp10.000.000 per month",
+              "location": "Jakarta Pusat, Jakarta Raya",
+              "link": "https://id.jobstreet.com/id/job/92036471?type=standard&ref=search-standalone&origin=cardTitle"
+            }
+          ],
+          "pagination": {
+            "current_page": 1,
+            "last_page": 1,
+            "has_next": false
+          }
+        }
+      }
+    },
+    "page=2|jt=|wo=|loc=all": {
+      "ts": "2025-09-14T18:02:02.002842Z",
+      "data": {
+        "status": "success",
+        "message": "Success find job",
+        "data": {
+          "total_jobs": "1,100 pekerjaan",
+          "jobs": [
+            {
+              "title": "Programmer Staff",
+              "company_name": "PT Mobil Anak Bangsa",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/b8a2d7c1-8b75-48f7-9195-eaaba721582b.1/serpLogo",
+              "salary": "N/A",
+              "location": "Jakarta Pusat, Jakarta Raya",
+              "link": "https://id.jobstreet.com/id/job/86678113?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Programmer Jakarta",
+              "company_name": "PT Galva Galindra Multi Cipta",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/4a12b563-eb4a-4812-9dc7-5383b21daaf3.2/serpLogo",
+              "salary": "Rp6.500.000 - Rp9.750.000 per month",
+              "location": "Jakarta Pusat, Jakarta Raya",
+              "link": "https://id.jobstreet.com/id/job/86634143?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Fullstack Developer",
+              "company_name": "PT Swadharma Duta Data",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/bc11755d-2d21-4e77-bc73-9c262ae74283.1/serpLogo",
+              "salary": "Rp5.500.000 - Rp8.000.000 per month",
+              "location": "Jakarta Raya",
+              "link": "https://id.jobstreet.com/id/job/87046259?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "API Developer",
+              "company_name": "PT. Metrocomjaddi Technology",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/ca388291-905a-4d40-9495-3f8beff69c85.2/serpLogo",
+              "salary": "Rp6.000.000 - Rp8.000.000 per month",
+              "location": "Jakarta Raya",
+              "link": "https://id.jobstreet.com/id/job/87062070?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Web Programmer",
+              "company_name": "PT RESTU BARU INVESTAMA",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/ff4ada79-a7c2-4ce4-8aaa-dde1147ca2a3.2/serpLogo",
+              "salary": "Rp3.000.000 - Rp4.000.000 per month",
+              "location": "Surakarta, Jawa Tengah",
+              "link": "https://id.jobstreet.com/id/job/87045114?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "IT Staff (Web Developer)",
+              "company_name": "PT Tirtakencana Tatawarna (Head Office)",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/ed1e27dd-75d1-4e0f-bc01-ab6d5ac6c144.2/serpLogo",
+              "salary": "N/A",
+              "location": "Surabaya, Jawa Timur",
+              "link": "https://id.jobstreet.com/id/job/87153169?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Backend Developer",
+              "company_name": "PT Insura Media Solusi (Jakarta)",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/64c46ccc-96a9-463d-8d12-06cb351837e3.2/serpLogo",
+              "salary": "Rp10.000.000 - Rp15.000.000 per month",
+              "location": "Jakarta Raya",
+              "link": "https://id.jobstreet.com/id/job/86576066?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Backend Developer",
+              "company_name": "PT Intersolusi Teknologi Asia",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/aefc2119-f381-464f-9bfa-305c3f48bda8.1/serpLogo",
+              "salary": "Rp5,000,000 - Rp7,500,000 per month",
+              "location": "Bandung, Jawa Barat",
+              "link": "https://id.jobstreet.com/id/job/86650203?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Software Engineer (Junior)",
+              "company_name": "KYZN For Life",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/1f34b3e0-6b00-4d6f-bc7c-0a02060a1480.2/serpLogo",
+              "salary": "N/A",
+              "location": "Jakarta Selatan, Jakarta Raya",
+              "link": "https://id.jobstreet.com/id/job/87135547?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Lean Programmer",
+              "company_name": "PT Sam Kyung Jaya Garments",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/19081eaa-801e-4043-9beb-e89e9ba51c5b.1/serpLogo",
+              "salary": "N/A",
+              "location": "Kabupaten Semarang, Jawa Tengah",
+              "link": "https://id.jobstreet.com/id/job/87077412?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Senior Full Stack Developer",
+              "company_name": "PT INDONESIA MOROWALI INDUSTRIAL PARK",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/82e34f83-a83c-4bb6-a345-b467c64ae004.2/serpLogo",
+              "salary": "N/A",
+              "location": "Jakarta Barat, Jakarta Raya",
+              "link": "https://id.jobstreet.com/id/job/86783528?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "C# PROGRAMMER",
+              "company_name": "N/A",
+              "company_logo": "N/A",
+              "salary": "N/A",
+              "location": "Tangerang, Banten",
+              "link": "https://id.jobstreet.com/id/job/87132065?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Software Programmer - Web Applications ( Based in Papua New Guinea)",
+              "company_name": "PT Trust Recruit Indonesia",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/a7c4e144-798e-4435-960e-75083b8717e2.2/serpLogo",
+              "salary": "N/A",
+              "location": "Jakarta Raya",
+              "link": "https://id.jobstreet.com/id/job/87031146?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Senior Fullstack Engineer",
+              "company_name": "PT. BFI FINANCE INDONESIA, Tbk",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/d71d199f-8d24-480e-a278-aa73979001d1.1/serpLogo",
+              "salary": "N/A",
+              "location": "Tangerang Selatan, Banten",
+              "link": "https://id.jobstreet.com/id/job/86946557?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "IT Programmer Staff",
+              "company_name": "PT Indomobil Finance Indonesia",
+              "company_logo": "N/A",
+              "salary": "N/A",
+              "location": "Jakarta Raya",
+              "link": "https://id.jobstreet.com/id/job/85140936?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "C# Developer",
+              "company_name": "PT Petrolink Services Indonesia",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/7e1a3584-025f-49a3-b9fe-e3fb54446870.1/serpLogo",
+              "salary": "N/A",
+              "location": "Jakarta Selatan, Jakarta Raya",
+              "link": "https://id.jobstreet.com/id/job/86765307?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Fullstack Software Engineer (Nest)",
+              "company_name": "PT Eigerindo Multi Produk Industri",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/938c3641-1e03-4a02-a4a0-07db9d88b670.2/serpLogo",
+              "salary": "N/A",
+              "location": "Kabupaten Bandung, Jawa Barat",
+              "link": "https://id.jobstreet.com/id/job/87167718?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Senior Full Stack Developer",
+              "company_name": "PT ABLE REMITTANCE",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/5ee6dbdc-8657-4a99-959d-439c0a48ca4f.1/serpLogo",
+              "salary": "Rp15.000.000 - Rp20.000.000 per month",
+              "location": "Jakarta Raya",
+              "link": "https://id.jobstreet.com/id/job/86939911?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "WEB PROGRAMMER",
+              "company_name": "PT Bentang Inspira Teknologi (Bandung)",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/e87d95f8-6573-466e-9f9f-908a35412e9c.1/serpLogo",
+              "salary": "Rp5.000.000 - Rp7.000.000 per month",
+              "location": "Jakarta Pusat, Jakarta Raya",
+              "link": "https://id.jobstreet.com/id/job/86872096?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Subject Matter Expert - Senior Programmer Simulator",
+              "company_name": "Soedarpo Informatika",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/38f2fa0b-db7b-40c5-86b1-0e61ad2031b4.1/serpLogo",
+              "salary": "N/A",
+              "location": "Jakarta Raya",
+              "link": "https://id.jobstreet.com/id/job/87127921?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Mobile App Developer",
+              "company_name": "PT IRUMA TEKNOLOGI NUSANTARA",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/80abf165-1550-4a6c-a8bc-31b19347e231.2/serpLogo",
+              "salary": "Rp5.100.000 - Rp7.000.000 per month",
+              "location": "Kabupaten Tangerang, Banten",
+              "link": "https://id.jobstreet.com/id/job/86799154?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "IT Web Developer",
+              "company_name": "PT Infotama Teknologi Indonesia",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/3341b0e9-40b8-4380-8798-1276c9733015.2/serpLogo",
+              "salary": "Rp5,000,000 - Rp7,500,000 per month",
+              "location": "Jakarta Barat, Jakarta Raya",
+              "link": "https://id.jobstreet.com/id/job/87112765?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Full Stack Developer (AI Agent)",
+              "company_name": "MCloudbridge",
+              "company_logo": "N/A",
+              "salary": "N/A",
+              "location": "Tangerang Selatan, Banten",
+              "link": "https://id.jobstreet.com/id/job/87095815?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Web Developer Officer",
+              "company_name": "PT Mutia Culinary Concepts",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/1be9a7f3-eea2-457d-8a30-92831c8fdb72.1/serpLogo",
+              "salary": "N/A",
+              "location": "Medan, Sumatera Utara",
+              "link": "https://id.jobstreet.com/id/job/87065264?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "JUNIOR IT PROGRAMMER",
+              "company_name": "PT Mandjur Sehat Abadi",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/3b74f02f-8443-441a-aa44-c6b52321f3ef.2/serpLogo",
+              "salary": "N/A",
+              "location": "Jakarta Pusat, Jakarta Raya",
+              "link": "https://id.jobstreet.com/id/job/86895316?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Programer",
+              "company_name": "Rumah Sakit Jakarta",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/deb0fdea-c5c2-4d09-be49-e3f77dfa77a0.2/serpLogo",
+              "salary": "N/A",
+              "location": "Jakarta Selatan, Jakarta Raya",
+              "link": "https://id.jobstreet.com/id/job/86636232?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "IT Web Developer",
+              "company_name": "PT Lavananya Madinah Travel",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/f7041d58-8867-4945-a7fc-8cc70626e1a0.2/serpLogo",
+              "salary": "Rp5.000.000 - Rp7.500.000 per month",
+              "location": "Bandung, Jawa Barat",
+              "link": "https://id.jobstreet.com/id/job/86872798?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Mobile Developer",
+              "company_name": "PT Iforce Consulting Indonesia",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/211a8094-b1e0-4440-990c-d493d8e1fdd5.1/serpLogo",
+              "salary": "N/A",
+              "location": "Jakarta Selatan, Jakarta Raya",
+              "link": "https://id.jobstreet.com/id/job/87041981?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Programmer / Developer / Basis",
+              "company_name": "Karunia Prima Nastari (KPN CORP.)",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/3ad23e8e-f73f-4073-8ef3-72e7a1be19b2.2/serpLogo",
+              "salary": "N/A",
+              "location": "Jakarta Selatan, Jakarta Raya",
+              "link": "https://id.jobstreet.com/id/job/87029328?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "IT Programmer",
+              "company_name": "PT Graha Bumi Hijau",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/e1bb9496-b76d-46de-99a6-811503228164.2/serpLogo",
+              "salary": "N/A",
+              "location": "Jakarta Barat, Jakarta Raya",
+              "link": "https://id.jobstreet.com/id/job/86903673?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Fullstack Programmer",
+              "company_name": "Rumah Sakit PKU Muhammadiyah Wonosobo",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/b5e4fd91-bb17-4a68-8a32-d5ba14c5cfe1.1/serpLogo",
+              "salary": "N/A",
+              "location": "Wonosobo, Jawa Tengah",
+              "link": "https://id.jobstreet.com/id/job/87027689?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "CNC Programmer & Drafter",
+              "company_name": "N/A",
+              "company_logo": "N/A",
+              "salary": "N/A",
+              "location": "Cilegon, Banten",
+              "link": "https://id.jobstreet.com/id/job/87108093?type=standard&ref=search-standalone&origin=cardTitle"
+            }
+          ],
+          "pagination": {
+            "current_page": 2,
+            "last_page": 1,
+            "has_next": false
+          }
+        }
+      }
+    },
+    "page=1|jt=|wo=onsite|loc=all": {
+      "ts": "2026-01-11T10:08:46.538907Z",
+      "data": {
+        "status": "success",
+        "message": "Success find job",
+        "data": {
+          "total_jobs": "1,031 pekerjaan",
+          "jobs": [
+            {
+              "title": "Programmer",
+              "company_name": "Indofood Group",
+              "company_logo": "N/A",
+              "salary": "N/A",
+              "location": "N/A",
+              "link": "https://id.jobstreet.com/id/job/89584841?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Junior Programmer",
+              "company_name": "Fast Print Indonesia",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/9f1f6a1a-42df-48ad-927e-c2d766721d43.2/serpLogo",
+              "salary": "N/A",
+              "location": "N/A",
+              "link": "https://id.jobstreet.com/id/job/89562223?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Full Stack Programmer",
+              "company_name": "PT Duta Maritim Jaya (Palembang)",
+              "company_logo": "N/A",
+              "salary": "Rp3.500.000 - Rp4.000.000 per month",
+              "location": "N/A",
+              "link": "https://id.jobstreet.com/id/job/89590414?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Staff IT Fullstack Developer",
+              "company_name": "PT Duta Agro Makmur Indah",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/b60f12cb-d539-46cc-beb0-666b8dd62a84.2/serpLogo",
+              "salary": "N/A",
+              "location": "N/A",
+              "link": "https://id.jobstreet.com/id/job/89565213?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Staff Web Developer",
+              "company_name": "PT Lyto Datarindo Fortuna",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/c0c58a0c-eb5e-4cf1-98b4-1c64ecef2ac9.1/serpLogo",
+              "salary": "Rp6.000.000 - Rp8.000.000 per month",
+              "location": "N/A",
+              "link": "https://id.jobstreet.com/id/job/89579408?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Programmer",
+              "company_name": "PT Medion Farma Jaya",
+              "company_logo": "N/A",
+              "salary": "N/A",
+              "location": "N/A",
+              "link": "https://id.jobstreet.com/id/job/89583380?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "PHP Programmer (Codeigniter/Laravel)",
+              "company_name": "AlphaPhilindo Solution Inc",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/3f9c9613-418c-42c5-988b-ac330fb94141.2/serpLogo",
+              "salary": "Rp8,000,000 - Rp12,000,000 per month",
+              "location": "N/A",
+              "link": "https://id.jobstreet.com/id/job/89510694?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Programmer",
+              "company_name": "PT Bridgestone Tire Indonesia",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/e7390bf7-7aa6-407e-a283-9aa0a94a509e.1/serpLogo",
+              "salary": "N/A",
+              "location": "N/A",
+              "link": "https://id.jobstreet.com/id/job/89512808?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "IT PROGRAMMER",
+              "company_name": "PT Graha Vinoti Kreasindo",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/ea9919d0-2419-417b-8977-956087f575bc.1/serpLogo",
+              "salary": "Rp6.000.000 - Rp8.000.000 per month",
+              "location": "N/A",
+              "link": "https://id.jobstreet.com/id/job/89516847?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "IT Programmer",
+              "company_name": "PT Sandimas Intimitra (Sandei)",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/90197395-091b-482d-bbf5-c34b20e3e1f8.1/serpLogo",
+              "salary": "N/A",
+              "location": "N/A",
+              "link": "https://id.jobstreet.com/id/job/89508062?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "IT Programmer",
+              "company_name": "P.T. Airindo Sakti",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/51f1c0b7-1fa6-402d-98ee-0cdc4751e777.1/serpLogo",
+              "salary": "N/A",
+              "location": "N/A",
+              "link": "https://id.jobstreet.com/id/job/89503665?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Operator / Programmer - CNC",
+              "company_name": "PT Karunia Jayama Sentra",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/4d38afab-32f9-44df-a8f8-7e11042622c0.2/serpLogo",
+              "salary": "Rp5.000.000 - Rp5.500.000 per month",
+              "location": "N/A",
+              "link": "https://id.jobstreet.com/id/job/89582889?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Junior Programmer",
+              "company_name": "Inovasi Solusi Internasional",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/45c6bd60-6316-494f-8549-da11d9552a4a.1/serpLogo",
+              "salary": "N/A",
+              "location": "N/A",
+              "link": "https://id.jobstreet.com/id/job/89480569?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Programmer",
+              "company_name": "PT Merak Jaya Beton",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/5c2d3bd6-ba34-4688-80bc-e055135ff21d.2/serpLogo",
+              "salary": "N/A",
+              "location": "N/A",
+              "link": "https://id.jobstreet.com/id/job/89586839?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Junior Programming Staff",
+              "company_name": "PT. Sinergi Kreasi Indonusa",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/a5a10ee1-eef9-4760-bf14-804c28c6eba9.2/serpLogo",
+              "salary": "Rp4.500.000 - Rp5.000.000 per month",
+              "location": "N/A",
+              "link": "https://id.jobstreet.com/id/job/89441058?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Software Developer (Work From Home)",
+              "company_name": "IXEN INTERACTIVE PTE. LTD.",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/5256100e-c0dd-4e6b-8766-6a0f6d0b5c02.1/serpLogo",
+              "salary": "Rp5,500,000 - Rp8,000,000 per month",
+              "location": "N/A",
+              "link": "https://id.jobstreet.com/id/job/89437931?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Junior Programmer",
+              "company_name": "PT Terakorp Indonesia",
+              "company_logo": "N/A",
+              "salary": "Rp4.200.000 - Rp5.000.000 per month",
+              "location": "N/A",
+              "link": "https://id.jobstreet.com/id/job/89404239?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Staf Programmer",
+              "company_name": "PT Tri Usaha Berkat",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/84001eba-0fdf-47ae-b73d-4446af4c5dc3.2/serpLogo",
+              "salary": "Rp5.000.000 - Rp6.000.000 per month",
+              "location": "N/A",
+              "link": "https://id.jobstreet.com/id/job/89191743?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "IT Programmer",
+              "company_name": "PT. PERSADA SOLUSI DATA",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/13f5830a-e10d-4711-a8a5-204a03839ff6.2/serpLogo",
+              "salary": "N/A",
+              "location": "N/A",
+              "link": "https://id.jobstreet.com/id/job/89507301?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Web Developer",
+              "company_name": "PT Indotara Persada",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/ca648d4e-4760-44b1-8c5f-e709bb40f49d.1/serpLogo",
+              "salary": "Rp5.000.000 - Rp7.000.000 per month",
+              "location": "N/A",
+              "link": "https://id.jobstreet.com/id/job/89511461?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "IT Programmer",
+              "company_name": "PT Infoarta Pratama",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/b4437fe1-d2c7-4cdc-bd4d-d23a8c37bc0b.1/serpLogo",
+              "salary": "N/A",
+              "location": "N/A",
+              "link": "https://id.jobstreet.com/id/job/89431337?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "IT Programmer",
+              "company_name": "PT Batik Sukses Sejahtera",
+              "company_logo": "N/A",
+              "salary": "N/A",
+              "location": "N/A",
+              "link": "https://id.jobstreet.com/id/job/89576976?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "IT Programmer",
+              "company_name": "PT Arai Rubber Seal Indonesia",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/528908e4-99bf-4970-bb85-8cca99aa5360.1/serpLogo",
+              "salary": "N/A",
+              "location": "N/A",
+              "link": "https://id.jobstreet.com/id/job/89469112?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Programmer",
+              "company_name": "PT Metrocom Global Solusi",
+              "company_logo": "N/A",
+              "salary": "N/A",
+              "location": "N/A",
+              "link": "https://id.jobstreet.com/id/job/89489960?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "IT Web Programming",
+              "company_name": "PT Gelora Aksara Pratama (Erlangga Group)",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/d6bca8c6-26cc-4aac-a3e0-755e46cd83d9.1/serpLogo",
+              "salary": "Rp5.397.500 per month",
+              "location": "N/A",
+              "link": "https://id.jobstreet.com/id/job/89293926?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "IT Web Developer",
+              "company_name": "PT Lavananya Madinah Travel",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/f7041d58-8867-4945-a7fc-8cc70626e1a0.1/serpLogo",
+              "salary": "Rp5.000.000 - Rp7.500.000 per month",
+              "location": "N/A",
+              "link": "https://id.jobstreet.com/id/job/89356604?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "IT Programmer",
+              "company_name": "PT RAJA SUKSES PROPERTINDO",
+              "company_logo": "N/A",
+              "salary": "N/A",
+              "location": "N/A",
+              "link": "https://id.jobstreet.com/id/job/89576879?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Web Developer",
+              "company_name": "CV Doji Sentosa Primadaya",
+              "company_logo": "N/A",
+              "salary": "N/A",
+              "location": "N/A",
+              "link": "https://id.jobstreet.com/id/job/89164269?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Junior/Senior Programmer dan System Administrator (salah satu)",
+              "company_name": "PT. Aktif Solusi Global",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/e9cabcb2-93aa-4d7a-8eee-3915cade6f91.1/serpLogo",
+              "salary": "Rp7.000.000 - Rp9.000.000 per month",
+              "location": "N/A",
+              "link": "https://id.jobstreet.com/id/job/89452082?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "WEB DEVELOPER",
+              "company_name": "PT Prawathiya Karsa Pradipta",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/fbcaf744-678d-4ab6-adc1-9278cd2d51ef.2/serpLogo",
+              "salary": "Rp6.000.000 - Rp7.000.000 per month",
+              "location": "N/A",
+              "link": "https://id.jobstreet.com/id/job/89508450?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "Kepala Programer dan  IT Support",
+              "company_name": "PT Farika Riau Perkasa",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/da23b73d-4162-419e-a917-fa1f54dd76e5.2/serpLogo",
+              "salary": "Rp8.000.000 - Rp10.000.000 per month",
+              "location": "N/A",
+              "link": "https://id.jobstreet.com/id/job/89543482?type=standard&ref=search-standalone&origin=cardTitle"
+            },
+            {
+              "title": "IT (Programmer dan Help Desk)",
+              "company_name": "Yayasan Buddha Tzu Chi Medika Indonesia",
+              "company_logo": "https://bx-branding-gateway.cloud.seek.com.au/1fcb63b2-4c6e-4813-885c-0854c651a198.1/serpLogo",
+              "salary": "N/A",
+              "location": "N/A",
+              "link": "https://id.jobstreet.com/id/job/89372432?type=standard&ref=search-standalone&origin=cardTitle"
+            }
+          ],
+          "pagination": {
+            "current_page": 1,
+            "last_page": 1,
+            "has_next": false
+          }
+        }
+      }
+    }
+  }
+}
